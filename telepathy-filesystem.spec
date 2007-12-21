@@ -5,6 +5,7 @@ Summary:        Telepathy filesystem layout
 
 Group:          System/Base
 License:        Public Domain
+BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
 BuildArch:      noarch
 Requires:       filesystem
