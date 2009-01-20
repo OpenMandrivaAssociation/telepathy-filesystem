@@ -1,6 +1,6 @@
 Name:           telepathy-filesystem
 Version:        0.0.1
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        Telepathy filesystem layout
 
 Group:          System/Base
