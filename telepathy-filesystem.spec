@@ -15,11 +15,11 @@ This package provides some directories which are required by other
 packages which comprise the Telepathy release.  
 
 %install
-rm -rf $RPM_BUILD_ROOT
-mkdir -p $RPM_BUILD_ROOT%{_datadir}/telepathy/managers
+rm -rf %{buildroot}
+mkdir -p %{buildroot}%{_datadir}/telepathy/managers
 
 %clean
-rm -rf $RPM_BUILD_ROOT
+rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root,-)
