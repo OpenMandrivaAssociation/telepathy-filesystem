@@ -1,6 +1,6 @@
 Name:           telepathy-filesystem
 Version:        0.0.1
-Release:        14
+Release:        15
 Summary:        Telepathy filesystem layout
 
 Group:          System/Base
