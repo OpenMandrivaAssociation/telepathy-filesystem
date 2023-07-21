@@ -1,6 +1,6 @@
 Name:		telepathy-filesystem
-Version:	0.0.1
-Release:	19
+Version:	0.0.2
+Release:	1
 Summary:	Telepathy filesystem layout
 Group:		System/Base
 License:	Public Domain
